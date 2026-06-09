@@ -24,6 +24,8 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 ---
 
 ##  Front Panel Layout
+<img width="786" height="612" alt="image" src="https://github.com/user-attachments/assets/2fdb2413-7e9a-4b9a-91d7-c5d7deaca713" />
+
 
 <img width="784" height="551" alt="image" src="https://github.com/user-attachments/assets/b6e23d07-c9a0-4289-9af7-3d02ff4f142a" />
 
@@ -31,13 +33,13 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 
 ##  Block Diagram Description
 
-<img width="737" height="530" alt="image" src="https://github.com/user-attachments/assets/1a832081-f500-46b4-858e-6c2a20f10582" />
+<img width="896" height="726" alt="image" src="https://github.com/user-attachments/assets/ef422bb2-c750-4956-8c01-07ea9d6129b9" />
+
 
 ---
 
 ##  Output
-
-<img width="1920" height="1200" alt="VICAEXP1" src="https://github.com/user-attachments/assets/abc66b7b-79c6-44ca-82bb-8bba8091c42a" />
+<img width="1915" height="1137" alt="image" src="https://github.com/user-attachments/assets/0912abf6-dbde-4ae0-8502-2e7144126883" />
 
 ##  Result
 
