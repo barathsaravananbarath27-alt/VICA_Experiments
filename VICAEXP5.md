@@ -31,12 +31,11 @@ To sort even numbers from a given set of numbers using a WHILE loop in an array 
 
 ##  Block Diagram Description
 
-<img width="578" height="461" alt="image" src="https://github.com/user-attachments/assets/967af91d-73c8-4e81-85f3-595f353181ef" />
+<img width="1124" height="806" alt="image" src="https://github.com/user-attachments/assets/5a3b5961-a07a-4b97-9489-2eef9c0da7dd" />
+
 
 ## Output
-
-<img width="1920" height="1200" alt="VICAEXP5" src="https://github.com/user-attachments/assets/fc9c1927-7a71-44c1-b334-ba09e535ecd7" />
-
+<img width="1906" height="1123" alt="image" src="https://github.com/user-attachments/assets/e61d2659-8840-454e-8d35-5ef83c2f9a90" />
 ##  Result
 
 Thus the even numbers from the given set of numbers were successfully sorted using a WHILE loop in an array in LabVIEW.
